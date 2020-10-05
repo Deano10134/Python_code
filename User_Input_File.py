@@ -4,7 +4,7 @@
 
 # input() function requests the user input from the command line.
 
-name =input("What's your name?)
+name =input("What's your name?")
 print("Hello" + name)
 
 number = input("Please enter a number to multiply by 4: ")
